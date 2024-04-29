@@ -21,7 +21,7 @@ const student2: Student = {
   firstName: "Jane",
   lastName: "Smith",
   age: 22,
-  location: Los Angeles
+  location: "Los Angeles"
 };
  
 // Create an array containing the two students
